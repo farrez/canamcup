@@ -1,4 +1,4 @@
-package com.canamcup.canamcup
+package com.canamcup
 
 import org.junit.Test
 import org.junit.runner.RunWith
